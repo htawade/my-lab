@@ -1,0 +1,1 @@
+create table mcq( Q_no serial NOT NULL primary key,que varchar,a varchar,b varchar ,c varchar , d varchar ,ans int);
